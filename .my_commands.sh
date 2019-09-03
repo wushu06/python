@@ -1,0 +1,10 @@
+#!/bin/bash
+
+    mkdir $1
+    cd $1
+    python create.py $1
+   
+
+    touch README.md
+    
+ 
